@@ -1,4 +1,6 @@
 # Toshitba tools
+Status: unmaintained, probably made obsolete by newer kernel versions
+
 Tools for making a toshiba satellite usable.
 
 I have the misfortune of owning a toshiba satellite l855d-s5242 and here you will find
